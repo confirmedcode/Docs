@@ -201,6 +201,8 @@ We also have a bug bounty program that can be found here: https://hackerone.com/
 
 This project is licensed under the GPL License - see the [LICENSE.md](LICENSE.md) file for details
 
+Our thanks to Algo and @trailofbits for creating Algo, one of the inspirations for our project: https://github.com/trailofbits/algo
+
 # Contact
 
 <engineering@confirmedvpn.com>
