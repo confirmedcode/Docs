@@ -185,7 +185,7 @@ Prefix | Description
 --- | ---
 `a:` | Admin User Sessions
 `u:` | User Sessions
-`b:` | Brute Force Tracking
+`erl:` | Brute Force Tracking
 `s:` | Support User Sessions
 
 ## Servers
